@@ -1,0 +1,40 @@
+# jemdoc: menu{MENU}{}
+
+=== 
+
+= Mahshid Shahmohammadian
+~~~
+
+== About Me
+
+I'm a computer science Ph.D. candidate at Drexel University. My research focuses on high-level hardware design and FPGA design flow. I've been working on high-level functional languages in the wireless communication field, as concise tools to generate low-level hardware description languages like VHDL and Verilog. As a computer engineering undergrad, I worked on an algorithm for injecting soft errors into integrated circuits after synthesis and placement in ASIC design flow.
+
+Currently, I am working on generating VHDL/Verilog from functional programming languages such as Haskell as well as Ziria, a domain-specific language for software-defined radio (SDR) PHY layer specifications.
+
+== Experiences 
+
+: {ASIC Design Intern at Maxlinear Inc. -- Summer 2019}Optimizing power consumption of optical receiver equalizer filters, designing an FIR filter in Verilog and SystemVerilog which was tested against an equivalent reference model, synthesis netlist and gate-level simulation lead to powerconsumption estimations with certain stimulus window
+
+
+: {Research Assistant at Drexel University -- Fall 2016 until 2021} High-level Hardware Design of Wireless Systems, generating VHDL from Haskell and Domain-specific languages for communication systems applications
+
+
+
+== Research Interests
+
+- Field-programmable Gate Array
+- Computer Architecture
+- Hardware Software Co-Design
+- Application-specific Integrated Circuit
+- VLSI Design
+
+
+
+== Contact
+
+E-mail: ms4323@drexel.edu
+
+Address: Drexel College of Computing and Informatics, Research Room 1143
+3675 Market Street Philadelphia, PA 19104
+
+~~~
